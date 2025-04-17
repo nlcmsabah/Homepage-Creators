@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "https://jiaxiang.wang"
+base_url = "https://newlifechurch.my"
 
 title = "new life church"
 
-author = "王嘉祥"
+author = "新生命教会"
 
 description = "好奇、探索、创造。个人主页导航网站。"
 
